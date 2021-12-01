@@ -167,4 +167,4 @@ This repository contains logos and trademarks that are property of their respect
 
 ---
 
-Made with ❤️ for the developer community
+Made with ❤️ by [Suhaib Janjua](https://github.com/suhaibjanjua) for the developer community.
