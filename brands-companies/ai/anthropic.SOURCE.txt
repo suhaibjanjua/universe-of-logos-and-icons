@@ -1,0 +1,4 @@
+Source: simple-icons
+Repository: https://github.com/simple-icons/simple-icons/blob/develop/icons/anthropic.svg
+License: MIT (see https://github.com/simple-icons/simple-icons/blob/develop/LICENSE)
+Note: Logo is a company mark and may be a trademark of Anthropic, Inc. Use according to trademark and license terms.
